@@ -11,7 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //PROJE KISMINDAN VALUES-EN OLUŞTURDUK TASARIMIMIZA DİL DESTEĞİ EKLEDİK.
+        //PROJE KISMINDAN RES DOSYASI ALTINDA VALUES-EN KLASÖRÜ OLUŞTURDUK
+        // MEVCUT STRİNGS.XML'İNİ VELUES-EN KLASÖRÜNE KOPYALAYIP YENİDEN DÜZENLEDİK.
         //HANGİ DİLİ EKLEMEK İSTERSEK VALUES-(DİL) YAPARAK GERÇEKLEŞTİREBİLİRSİNİZ.
 
     }
